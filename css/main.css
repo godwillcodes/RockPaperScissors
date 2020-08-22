@@ -3,7 +3,7 @@ body {
   font-size: 20px;
   text-align: center;
   background: black;
-  color: lime;
+  color: red;
   margin: 3em;
 }
 
@@ -12,7 +12,7 @@ strong {
 }
 
 button {
-  background: lime;
+  background: red;
   color: black;
   border: none;
   padding: 10px 15px;
@@ -27,10 +27,10 @@ button:active {
 .scoreboard {
   width: 14em;
   margin: auto;
-  border: 1px solid lime;
+  border: 1px solid red;
 }
 .scoreboard h2 {
-  border-bottom: 1px solid lime;
+  border-bottom: 1px solid red;
   margin: 0;
   padding: 10px;
 }
