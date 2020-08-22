@@ -109,3 +109,12 @@ function displayPlayersChoice(msg){
 function displayBotsChoice(msg){
 	document.getElementById("botScore").innerHTML=msg;
 }
+
+
+// serviceWorker
+
+
+if ("serviceWorker" in navigator) {
+  // register service worker
+  navigator.serviceWorker.register("service-worker.js");
+}
