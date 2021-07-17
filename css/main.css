@@ -27,7 +27,7 @@ button:active {
 .scoreboard {
   width: 14em;
   margin: auto;
-  border: 1px solid red;
+  border: 1px solid blue;
 }
 .scoreboard h2 {
   border-bottom: 1px solid red;
